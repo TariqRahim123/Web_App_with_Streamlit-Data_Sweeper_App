@@ -1,1 +1,2 @@
-# Web_App_with_Streamlit-Data_Sweeper_App
+# Data-Sweeper-App
+Streamlit App to automatically clean and visualize data. Ability to convert files from CSV to Excel
